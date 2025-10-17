@@ -1,2 +1,1 @@
-# Simple Captcha Solver
-This is a simple web-based captcha solver interface.
+This is a placeholder for README.md. Please replace with actual content.
